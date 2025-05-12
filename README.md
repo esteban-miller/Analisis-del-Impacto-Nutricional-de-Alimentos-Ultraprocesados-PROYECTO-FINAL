@@ -56,34 +56,6 @@
         <p>Analista de Datos Junior</p>
     </header>
 
-    <section>
-        <h2>Sobre mí</h2>
-        <p>Me apasiona trabajar con datos para ayudar a las empresas a tomar decisiones informadas. He trabajado con herramientas como Python, SQL, Power BI y Tableau.</p>
-    </section>
-
-    <section>
-        <h2>Mis Proyectos</h2>
-        <div class="projects">
-            <!-- Proyecto 1 -->
-            <div class="project">
-                <h3>Análisis de Ventas</h3>
-                <p>Este proyecto analiza las ventas de una tienda online, enfocándose en la rentabilidad de productos y patrones de comportamiento de los clientes.</p>
-                <a href="https://github.com/tuusuario/analisis-ventas" target="_blank">Ver Proyecto</a>
-            </div>
-            <!-- Proyecto 2 -->
-            <div class="project">
-                <h3>Visualización de Datos de COVID-19</h3>
-                <p>En este proyecto, se visualiza la evolución de la pandemia COVID-19 a nivel mundial, utilizando gráficos interactivos en Tableau.</p>
-                <a href="https://public.tableau.com/views/COVID-19_Análisis" target="_blank">Ver Proyecto</a>
-            </div>
-            <!-- Proyecto 3 -->
-            <div class="project">
-                <h3>Predicción de Precios de Airbnb</h3>
-                <p>Este proyecto utiliza un modelo de regresión para predecir los precios de los alquileres en Airbnb, basándose en las características de las propiedades.</p>
-                <a href="https://github.com/tuusuario/prediccion-airbnb" target="_blank">Ver Proyecto</a>
-            </div>
-        </div>
-    </section>
 
     <footer>
         <p>Contacta conmigo: <a href="mailto:tuemail@dominio.com">tuemail@dominio.com</a></p>
